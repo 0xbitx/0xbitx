@@ -1,13 +1,12 @@
 Magtanim ay di biro
-Maghapong nakayuko
-Di man lang makaupo
+Maghapong nakaupo
 Di man lang makatayo
 Braso ko’y namamanhid
 Baywang ko’y nangangawit.
 Binti ko’y namimitig
 Sa pagkababad sa tubig.
 
-Sa umaga, paggising
+Sa gabi, paggising
 Ang lahat, iisipin
 Kung saan may patanim
 May masarap na pagkain.
