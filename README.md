@@ -1,26 +1,7 @@
-Magtanim ay di biro
-Maghapong nakaupo
-Di man lang makatayo
-Braso ko’y namamanhid
-Baywang ko’y nangangawit.
-Binti ko’y namimitig
-Sa pagkababad sa tubig.
+种田不容易 整天坐着 手臂麻木 腰酸背痛 脚浸泡水
 
-Sa gabi, paggising
-Ang lahat, iisipin
-Kung saan may patanim
-May masarap na pagkain.
+晚上醒来 大家都会想到 哪里有种植 哪里有美味的食物
 
-Halina, halina, mga kaliyag,
-Tayo’y magsipag-unat-unat.
-Magpanibago tayo ng lakas
-Para sa araw ng bukas
-(Bisig ko’y namamanhid
-Baywang ko’y nangangawit.
-Binti ko’y namimintig
-Sa pagkababad sa tubig.)
+来吧，来吧，伙伴们 让我们伸展一下 改变一下力量 为了明天（手臂麻木 腰酸背痛 脚浸泡水）
 
-Kay-pagkasawing-palad
-Ng inianak sa hirap,
-Ang bisig kung di iunat,
-Di kumita ng pilak.
+出生在困境中 多么不幸 如果不伸展双臂 就赚不到钱
