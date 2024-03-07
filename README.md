@@ -6,6 +6,6 @@
 
 出生在困境中 多么不幸 如果不伸展双臂 就赚不到钱
 
- <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="0xbitx" /><br>
+ <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=ef1023&style=for-the-badge" alt="0xbitx" /><br>
 
 
