@@ -19,8 +19,8 @@ of cybersecurity, with a pronounced focus on unconventional and advanced hacking
 <a href="https://0xbitx.github.io/0xbit-blog/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blog-000?logo=blogger&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://discord.gg/sMq4gCQNFm" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-000?logo=discord&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://0xbitx.github.io/Portfolio-website/" target="_blank"><img alt="" src="https://img.shields.io/badge/youtube-000?logo=youtube&logoColor=red&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://0xbitx.github.io/Portfolio-website/" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?logo=facebook&logoColor=blue&style=for-the-badge" style="vertical-align:center" />
+<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/youtube-000?logo=youtube&logoColor=red&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?logo=facebook&logoColor=blue&style=for-the-badge" style="vertical-align:center" />
 </a>
 
 
