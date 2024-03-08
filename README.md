@@ -1,3 +1,21 @@
+<p>‎</p>
+
+
+<div>
+  <img src="https://avatars.githubusercontent.com/u/74537225?v=4" width="128" height="128" align="left" />
+</div>
+
+
+```diff
+NAME: Hao Jianjun
+
+I am a 20-year-old Tool Developer specializing in the construction of sophisticated
+Linux malware solutions. My expertise lies in crafting and refining malicious tools
+specifically designed for Linux environments. I immerse myself in the intricate domain
+of cybersecurity, with a pronounced focus on unconventional and advanced hacking methodologies.
+```
+
+
 种田不容易 整天坐着 手臂麻木 腰酸背痛 脚浸泡水
 
 晚上醒来 大家都会想到 哪里有种植 哪里有美味的食物
