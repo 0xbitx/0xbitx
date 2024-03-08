@@ -20,8 +20,9 @@ of cybersecurity, with a pronounced focus on unconventional and advanced hacking
 <a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://discord.gg/sMq4gCQNFm" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-000?logo=discord&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/youtube-000?logo=youtube&logoColor=red&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?logo=facebook&logoColor=blue&style=for-the-badge" style="vertical-align:center" />
-</a>
+<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?logo=facebook&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/twitter-000?logo=twitter&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/0xbitx" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-000?logo=instagram&logoColor=pink&style=for-the-badge" style="vertical-align:center" /></a>
 
 
 种田不容易 整天坐着 手臂麻木 腰酸背痛 脚浸泡水
