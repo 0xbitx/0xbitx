@@ -31,6 +31,4 @@ of cybersecurity, with a pronounced focus on unconventional and advanced hacking
 
  <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=ef1023&style=for-the-badge" alt="0xbitx" /><br>
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs)
