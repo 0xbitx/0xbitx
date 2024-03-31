@@ -1,31 +1,23 @@
 ```console
 0xbit@linux.local:~$ neofetch
 
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 0xbit@linux.local
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 5267112341 seconds
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: python3, gcc, node, nasm, 3 others...
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: code, exploit dev, linux src
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: git@github.com:0xbitx
-a@@@@@@@@@@2                                    v@@@@@@@@@@;    
-#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
-@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: 0xbitx.io
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Twitter: 0xbitx
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: 0xbitx
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     linux tool projects
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      ------------------
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       Dedsec ransomware
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         Dedsec ransoware builder
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Dedsec keylogger
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Dedsec Spyware
-              "Lf8@@@@v              q@@@#Qa?:                 Dedsec Virus
-                  -!v|`              _?v!`
+,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,       0xbit@linux.local
+|1/2| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | + | ' | <-    |       -----------------------
+|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|       OS: GNU/Linux 
+| ->| | Q | W | E | R | T | Y | U | I | O | P | ] | ^ |     |       Uptime: 5267112341 seconds
+|-----',--',--',--',--',--',--',--',--',--',--',--',--'|    |       Packages: python3, gcc, node, nasm, 3 others...
+| Caps | A | S | D | E | D | S | E | C | L | \ | [ | * |    |       Shell: /bin/zsh
+|----,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'---'----|       Editors: vim, vscode
+|    | < | Z | X | C | V | B | N | M | , | . | - |          |       Crontab: code, exploit dev, linux src
+|----'-,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|       Home: git@github.com:0xbitx
+| ctrl |  | alt |           0xbit          | alt  |  | ctrl |  
+'------'  '-----'--------------------------'------'  '------'       linux tool projects
+                                                                    ------------------
+                                                                    Dedsec ransomware                                         
+                                                                    Dedsec ransoware builder
+                                                                    Dedsec keylogger
+                                                                    Dedsec Spyware
+                                                                    Dedsec Virus
 ```
 <div>
   <img src="https://0xbitx.github.io/Portfolio-website/assets/image/profile.png" width="128" height="128" align="left" />
