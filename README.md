@@ -1,25 +1,8 @@
 
-```console
-0xbit@linux.local:~$ neofetch
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNzbTQ5dHFhdGRuZmZ5ZzA1Y2Job256aGp3d3JoZmN2cGFpbDN1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ubp20XdzRE1KpNYro/giphy.gif", width="1000", height="500">
+</p>
 
-,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,       0xbit@linux.local
-|1/2| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | + | ' | <-    |       -----------------------
-|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|       OS: GNU/Linux 
-| ->| | Q | W | E | R | T | Y | U | I | O | P | ] | ^ |     |       Uptime: 5267112341 seconds
-|-----',--',--',--',--',--',--',--',--',--',--',--',--'|    |       Packages: python3, gcc, node, nasm, 5 others...
-| Caps | A | S | D | E | D | S | E | C | L | \ | [ | * |    |       Shell: /bin/zsh
-|----,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'---'----|       Editors: vim, vscode
-|    | < | Z | X | C | V | B | N | M | , | . | - |          |       Crontab: code, exploit dev, linux src
-|----'-,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|       Home: git@github.com:0xbitx
-| ctrl |  | alt |           0xbit          | alt  |  | ctrl |  
-'------'  '-----'--------------------------'------'  '------'       linux tool projects
-                                                                    ------------------
-                                                                    Dedsec ransomware                                         
-                                                                    Dedsec ransoware builder
-                                                                    Dedsec keylogger
-                                                                    Dedsec Spyware
-                                                                    Dedsec Virus
-```
 <div>
   <img src="https://0xbitx.github.io/Portfolio-website/assets/image/profile.png" width="128" height="128" align="left"/>
 </div>
