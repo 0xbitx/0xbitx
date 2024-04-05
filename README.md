@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNzbTQ5dHFhdGRuZmZ5ZzA1Y2Job256aGp3d3JoZmN2cGFpbDN1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ubp20XdzRE1KpNYro/giphy.gif", width="1000", height="500">
-</p>
-
 <div>
   <img src="https://github.com/0xbitx/0xbitx/blob/main/pp.png" width="128" height="128" align="left"/>
 </div>
