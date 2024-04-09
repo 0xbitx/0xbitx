@@ -1,4 +1,3 @@
-
 <div>
   <img src="https://github.com/0xbitx/0xbitx/blob/main/pp.png" width="128" height="128" align="left"/>
 </div>
