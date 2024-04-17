@@ -10,6 +10,7 @@ Linux malware solutions. My expertise lies in crafting and refining malicious to
 specifically designed for Linux environments. I immerse myself in the intricate domain
 of cybersecurity, with a pronounced focus on unconventional and advanced hacking methodologies.
 ```
+
 <p align="left">
 <a href="https://0xbitx.github.io/Portfolio-website/" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-000?logo=arch-linux&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://0xbitx.github.io/0xbit-blog/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blog-000?logo=blogger&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
