@@ -5,10 +5,10 @@
 ```diff
 NAME: Hao Jianjun
 
-I am a 20-year-old Tool Developer specializing in the construction of sophisticated
-Linux malware solutions. My expertise lies in crafting and refining malicious tools
-specifically designed for Linux environments. I immerse myself in the intricate domain
-of cybersecurity, with a pronounced focus on unconventional and advanced hacking methodologies.
+I'm a 20-year-old CLI tool developer with a very unusual area of expertise: creating complex
+tools for Linux systems. I immerse myself in the realm of cybersecurity, concentrating on
+developing malware, botnet, trojan, ransomware rather than using the typical software.
+I realize that's a little scary, but I find it fascinating to investigate more sophisticated hacking techniques.
 ```
 
 <p align="left">
