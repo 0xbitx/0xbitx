@@ -7,7 +7,7 @@ NAME: Hao Jianjun
 
 I'm a 20-year-old tool developer with a very unusual area of expertise: creating complex
 tools for Linux systems. I immerse myself in the realm of cybersecurity, concentrating on
-developing malware, botnet, trojan, ransomware rather than using the typical software.
+developing malware, rootkit, botnet, trojan, ransomware rather than using the typical software.
 I realize that's a little scary, but I find it fascinating to investigate more sophisticated hacking techniques.
 ```
 
