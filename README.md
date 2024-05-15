@@ -10,7 +10,6 @@ tools for Linux systems. I immerse myself in the realm of cybersecurity, concent
 developing malware, rootkit, botnet, trojan, ransomware rather than using the typical software.
 I realize that's a little scary, but I find it fascinating to investigate more sophisticated hacking techniques.
 ```
-
 <p align="left">
 <a href="https://0xbitx.github.io/Portfolio-website/" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-000?logo=arch-linux&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://0xbitx.github.io/0xbit-blog/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blog-000?logo=blogger&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
@@ -28,7 +27,6 @@ I realize that's a little scary, but I find it fascinating to investigate more s
 
 出生在困境中 多么不幸 如果不伸展双臂 就赚不到钱
 
-
  <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=ef1023&style=for-the-badge" alt="0xbitx" /><br>
 
-[.](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs)
+[](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs)
