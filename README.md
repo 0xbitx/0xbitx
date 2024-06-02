@@ -8,7 +8,7 @@
         │　 |　|　|    developing malware, rootkit, botnet, trojan, ransomware rather than using the typical software.
      ／￣|　 |　|　|    I realize that's a little scary, but I find it fascinating to investigate more sophisticated hacking techniques.
      (￣ヽ＿_ヽ_)__)
-     ＼二)
+      ＼二)
 ```
 
 <p align="left">
