@@ -1,7 +1,7 @@
 ```diff
                ___
             ／フ　  フ
-            | 　●　●|    meow, 0xbit
+            | 　●　●|     meow, 0xbit
            ／`ミ＿xノ
          /　　　  |       I'm a 20-year-old tool developer with a very unusual area of expertise: creating complex
         /  ヽ　　 ﾉ       tools for Linux systems. I immerse myself in the realm of cybersecurity, concentrating on
