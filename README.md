@@ -1,13 +1,13 @@
 ```diff
                ___
             ／フ　  フ
-            | 　●　●|     meow, 0xbit
+            |　 ●　●|     meow, 0xbit
            ／`ミ＿xノ
-         /　　　  |       I'm a 20-year-old tool developer with a very unusual area of expertise: creating complex
-        /  ヽ　　 ﾉ       tools for Linux systems. I immerse myself in the realm of cybersecurity, concentrating on
-        │　 |　|　|       developing malware, rootkit, botnet, trojan, ransomware rather than using the typical software.
-     ／￣|　 |　|　|       I realize that's a little scary, but I find it fascinating to investigate more sophisticated hacking techniques.
-     (￣ヽ＿_ヽ_)__)
+         /　　　  |       I'm a 20-year-old developer with a unique focus: creating advanced tools for Linux systems. I 
+        /  ヽ　　 ﾉ       dive deep into the world of cybersecurity, especially enjoying the challenge of developing 
+        │　 |　|　|       complex software like malware, rootkits, botnets, trojans, and ransomware. While this might
+     ／￣|　 |　|　|      sound a bit intense, I find it incredibly fascinating to explore sophisticated hacking techniques
+     (￣ヽ＿_ヽ_)__)      and understand the intricacies of cyber threats.
       ＼二)
 ```
 
