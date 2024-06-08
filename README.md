@@ -6,7 +6,7 @@
          /　　　  |       I'm a 20-year-old developer with a unique focus: creating advanced tools for Linux systems. I 
         /  ヽ　　 ﾉ       dive deep into the world of cybersecurity, especially enjoying the challenge of developing 
         │　 |　|　|       complex software like malware, rootkits, botnets, trojans, and ransomware. While this might
-     ／￣|　 |　|　|      sound a bit intense, I find it incredibly fascinating to explore sophisticated hacking techniques
+     ／￣|　 |　|　|       sound a bit intense, I find it incredibly fascinating to explore sophisticated hacking techniques
      (￣ヽ＿_ヽ_)__)      and understand the intricacies of cyber threats.
       ＼二)
 ```
