@@ -3,12 +3,13 @@
             ／フ　  フ
             |　 ●　●|     meow, 0xbit
            ／`ミ＿xノ
-         /　　　  |        I'm a 20-year-old developer with a unique focus: creating advanced tools for Linux systems. I 
-        /  ヽ　　 ﾉ        dive deep into the world of cybersecurity, especially enjoying the challenge of developing 
-        │　 |　|　|        complex software like malware, rootkits, botnets, trojans, and ransomware. While this might
-     ／￣|　 |　|　|        sound a bit intense, I find it incredibly fascinating to explore sophisticated hacking techniques
-     (￣ヽ＿_ヽ_)__)       and understand the intricacies of cyber threats.
+         /　　　  |        I am a 20-year-old developer with a unique focus: creating advanced tools for Linux systems and
+        /  ヽ　　 ﾉ        enjoying the challenge of developing complex software such as malware, PoC's, rootkits, botnets, trojans, and ransomware.
+        │　 |　|　|        I find it incredibly fascinating to explore sophisticated hacking techniques and tools to make your
+     ／￣|　 |　|　|        average hacking attempts look like child's play.
+     (￣ヽ＿_ヽ_)__)       
       ＼二)
+
 ```
 
 <p align="left">
