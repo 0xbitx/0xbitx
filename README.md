@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Persistence Pays Off
+
 ```diff
                ___
             ／フ　  フ
