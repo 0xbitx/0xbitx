@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Persistence Pays Off
+> CAPS LOCK – Preventing Login Since 1980.
 
 ```diff
                ___
