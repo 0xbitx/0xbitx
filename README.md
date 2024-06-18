@@ -32,9 +32,6 @@
 
 出生在困境中 多么不幸 如果不伸展双臂 就赚不到钱
 
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xbitx)
-
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/0xbitx)
 
  <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=ef1023&style=for-the-badge" alt="0xbitx" /><br>
 
