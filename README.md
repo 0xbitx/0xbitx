@@ -4,7 +4,7 @@
 ```diff
                ___
             ／フ　  フ
-            |　 ●　●|     meow, 0xbit
+            |　 ●　●|      meow, 0xbit
            ／`ミ＿xノ
          /　　　  |        I am a 20-year-old developer with a unique focus: creating advanced tools for Linux systems and
         /  ヽ　　 ﾉ        enjoying the challenge of developing complex software such as malware, PoC's, rootkits, botnets, trojans, and ransomware.
