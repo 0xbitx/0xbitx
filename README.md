@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> CAPS LOCK – Preventing Login Since 2000.
+> .
 
 ```diff
                ___
