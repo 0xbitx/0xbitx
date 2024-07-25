@@ -1,6 +1,5 @@
 > [!IMPORTANT]  
-> What do you call a VPN that isn’t private?
-A proxymoron.
+> .
 
 ```diff
                ___
