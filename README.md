@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> st. PLA
+> Are you paranoid? Then read this [click](https://github.com/0xbitx/OPSEC)
 
 ```diff
                ___
