@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Are you paranoid? Then read this [click](https://github.com/0xbitx/OPSEC)
+> Are you paranoid? Then read this [read](https://github.com/0xbitx/OPSEC)
 
 ```diff
                ___
