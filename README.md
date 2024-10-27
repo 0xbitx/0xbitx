@@ -5,15 +5,15 @@
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A2MWRzZm04aWMxcjYzaXoyN2d2MXNjOXR3bHYxaG4yYXVjZ2ExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0JxMKeSCfFBJCg/giphy.webp" alt="0xbit" width="320" /> 
 
 ```txt
-0xbitx@github
+0xbit@github
 -------------------------
-OS:  Linux Mint 20.3 x86_64
+OS: Linux Mint 20.3 x86_64
 Shell: zsh 5.9
 Pronouns: He/Him
 Location: PH, Laguna
-Languages: C/C++, Python,
+Languages: C/C++, Python, Asm x86-64
            Javascript, Html/css
-Learning: Malware devmnt, Exploit deevmnt, Asm,
+Learning: Malware devmnt, Exploit devmnt, Asm,
 Hobbies: , Typing, Reading
 Commits: 5k
 Stars: 500
