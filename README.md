@@ -14,7 +14,7 @@ Location: PH, Laguna
 Languages: C/C++, Python, Asm x86-64
            Javascript, Html/css
 Learning: Malware devmnt, Exploit devmnt, Asm,
-Hobbies: , Typing, Reading
+Hobbies: Coding, Fast Typing, Reading
 Commits: 5k
 Stars: 500
 Discord: 0xbitx#1001
