@@ -17,7 +17,7 @@ Learning: Malware devmnt, Exploit devmnt, Asm,
 Hobbies: Coding, Fast Typing, Reading
 Commits: 5k
 Stars: 500
-Discord: 0xbitx#1001
+Discord: 0xbitx
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
