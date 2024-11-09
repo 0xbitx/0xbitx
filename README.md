@@ -13,7 +13,7 @@ Pronouns: He/Him
 Location: PH, Laguna
 Languages: C/C++, Python, Asm x86-64
            Javascript, Html/css
-Learning: Malware devmnt, Exploit devmnt, Asm,
+Learning: Malware devmnt, Exploit devmnt, Code Obfuscation,
 Hobbies: Coding, Fast Typing, Reading
 Commits: 5k
 Stars: 500
