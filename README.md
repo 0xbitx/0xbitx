@@ -12,8 +12,8 @@ Shell: zsh 5.9
 Pronouns: He/Him
 Location: PH, Laguna
 Languages: C/C++, Python, Asm x86-64
-           Javascript, Html/css
-Learning: Malware devmnt, Exploit devmnt, Code Obfuscation,
+           Javascript, Html/css, Bash/Powershell
+Learning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardware Prototyping
 Hobbies: Coding, Fast Typing, Reading
 Commits: 5k
 Stars: 500
