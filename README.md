@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A2MWRzZm04aWMxcjYzaXoyN2d2MXNjOXR3bHYxaG4yYXVjZ2ExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0JxMKeSCfFBJCg/giphy.webp" alt="0xbit" width="320" /> 
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A2MWRzZm04aWMxcjYzaXoyN2d2MXNjOXR3bHYxaG4yYXVjZ2ExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0JxMKeSCfFBJCg/giphy.webp" alt="0xbit" width="300" /> 
 
 ```txt
 0xbit@github
