@@ -13,7 +13,7 @@ Pronouns: He/Him
 Location: PH, Laguna
 Languages: C/C++, Python, Asm x86-64, Javascript, Html/css, Bash/Powershell
 Learning: Malware devmnt, Exploit devmnt, Code Obfuscation, Hardware Prototyping
-Hobbies: Coding, Fast Typing, Reading
+Hobbies: Coding, Reading
 Commits: 5k
 Stars: 500
 Discord: 0xbitx
