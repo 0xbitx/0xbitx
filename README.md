@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/philippines_private/0xbitx.svg)](https://user-badge.committers.top/philippines_private/0xbitx)
- &emsp; ![Profile Views](https://komarev.com/ghpvc/?username=0xbitx) &emsp; ![Followers](https://img.shields.io/github/followers/0xbitx) &emsp; ![Stars](https://img.shields.io/github/stars/0xbitx?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) &emsp;
 
 ```txt
 ⣿⣿⣷⡁⢆⠈⠕⢕⢂⢕⢂⢕⢂⢔⢂⢕⢄⠂⣂⠂⠆⢂⢕⢂⢕⢂⢕⢂⢕⢂ 0xbit@github
@@ -17,5 +15,8 @@
 ⠨⡂⡀⢑⢕⡅⠂⠄⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢔⢕⢕⣿⣿⠠⠈ Twitter: 0xbit
 ⠄⠪⣂⠁⢕⠆⠄⠂⠄⠁⡀⠂⡀⠄⢈⠉⢍⢛⢛⢛⢋⢔⢕⢕⢕⣽⣿⣿⠠⠈ 
 ```
+[![committers.top badge](https://user-badge.committers.top/philippines_private/0xbitx.svg)](https://user-badge.committers.top/philippines_private/0xbitx)
+ &emsp; ![Profile Views](https://komarev.com/ghpvc/?username=0xbitx)
+
 "When the time is right, I, the Lord, will make it happen."
 — Isaiah 60:22
