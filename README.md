@@ -1,6 +1,4 @@
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14c2F3dzgxeWkyYmowMGpoeHhlaThoazV4MjR0MWh1c3FodHIyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdVaY3qS8lXCzD1veY/giphy.gif", width="900", height="900"></p>
-
 ```mermaid
 journey
   title My Daily Life
