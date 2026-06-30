@@ -3,6 +3,9 @@
 
 Red team tool developer focused on Linux offensive security. I build practical, weaponized tools that demonstrate real-world attack vectors.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://0xbit.is-a.dev)
+[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=github)](https://0xbit.is-a.dev/sec_blog.html)
+
 ### Focus Areas
 
 - Evasion techniques (AV/EDR bypass, Sandbox detection, Anti-debugging)
