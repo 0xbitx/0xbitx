@@ -3,8 +3,10 @@
 
 Red team tool developer focused on Offensive security. I build practical, weaponized tools that demonstrate real-world attack vectors.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://0xbit.is-a.dev)
-[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=github)](https://0xbit.is-a.dev/sec_blog.html)
+<a href="https://0xbit.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github" alt="Portfolio" /></a>
+<a href="https://0xbit.is-a.dev/sec_blog.html"><img src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=github" alt="Blog" /></a>
+<a href="https://github.com/0xbitx?tab=followers"><img src="https://img.shields.io/github/followers/0xbitx?style=flat-square&label=Followers&color=24292f" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=0xbitx&style=flat-square&color=24292f&label=Visitor" alt="Visitor" />
 
 ### Focus Areas: malware development and offensive security research
 
