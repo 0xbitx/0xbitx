@@ -8,7 +8,7 @@ Red team tool developer focused on Offensive security. I build practical, weapon
 <a href="https://github.com/0xbitx?tab=followers"><img src="https://img.shields.io/github/followers/0xbitx?style=flat-square&label=Followers&color=24292f" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=0xbitx&style=flat-square&color=24292f&label=Visitor" alt="Visitor" />
 
-### Focus Areas: malware development and offensive security research
+### Focus Areas: Malware development, Exploit development and offensive security research
 
 - Evasion techniques (AV/EDR bypass, Sandbox detection, Anti-debugging)
 - Payload delivery systems (Obfuscation, Multi-stage droppers, Living-off-the-land)
