@@ -23,9 +23,9 @@ Red team tool developer focused on Offensive security. I build practical, weapon
 | Component | Version | Check Command |
 |-----------|---------|---------------|
 | **OS** | Linux amd64 x86_64 | `uname -a` |
-| **Glibc** | 2.42 | `ldd --version \| head -1` |
-| **Python** | 3.13.12 | `python3 --version` |k
-| **GCC** | 15.2.0 | `gcc --version \| head -1` |
+| **Glibc** | 2.43 | `ldd --version \| head -1` |
+| **Python** | 3.14.8 | `python3 --version` |k
+| **GCC** | 16.2.0| `gcc --version \| head -1` |
 
 # <App Name>
 
